@@ -1,0 +1,15 @@
+{
+  "name": "foc-web",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.0.0beta6",
+    "jade": "*",
+    "underscore": "",
+    "request": "",
+    "connect-auth" : ">= 0.3.0"
+  }
+}
